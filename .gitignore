@@ -2,10 +2,11 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-ARCompass/[Ll]ibrary/
-ARCompass/[Tt]emp/
-ARCompass/[Oo]bj/
-ARCompass/[Bb]uild/
-ARCompass/[Bb]uilds/
-ARCompass/[Ll]ogs/
-ARCompass/[Mm]emoryCaptures/
+*/Library/
+#ARCompass/[Tt]emp/
+#ARCompass/[Oo]bj/
+#ARCompass/[Bb]uild/
+#ARCompass/[Bb]uilds/
+#ARCompass/[Ll]ogs/
+#ARCompass/[Mm]emoryCaptures/
+
